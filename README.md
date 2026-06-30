@@ -1,6 +1,6 @@
 # 🌍 Claude Skills: East Africa AI Stack
 
-**First Claude skills repository for Kenya/East Africa contexts.**
+Claude skills repository for Kenya/East Africa contexts — prompts, tools, and skill definitions tuned for Kenyan civic, financial, and agricultural use cases.
 
 Inspired by Rundown AI guide: *"Make Claude an Expert at Anything with This Skills Repo"* (January 2026).
 
