@@ -35,7 +35,6 @@ cat skills/mpesa-daraja/SKILL.md >> CLAUDE.md
 - [mpesa-mcp](https://github.com/gabrielmahia/mpesa-mcp) — M-PESA MCP server
 - [civic-agent-kit](https://github.com/gabrielmahia/civic-agent-kit) — Kenya civic data MCP
 - [wapimaji-mcp](https://github.com/gabrielmahia/wapimaji-mcp) — Water/drought MCP
-- [swahili-civic-nlp](https://huggingface.co/datasets/gmahia/swahili-civic-nlp) — Swahili NLP dataset
 
 ---
 *© 2026 Gabriel Mahia / AI Kung Fu LLC · MIT License*
